@@ -1,0 +1,116 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0"
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "cookingControl.xdk": {
+        "previousModTime": 1453041507438,
+        "modified": 1453041507438,
+        "seen": true,
+        "name": "cookingControl.xdk"
+      },
+      "cookingControl.xdke": {
+        "previousModTime": 1458336247880,
+        "modified": 1458336247880,
+        "seen": true,
+        "name": "cookingControl.xdke"
+      },
+      "digitalWrite.xdke": {
+        "previousModTime": 1458288135996,
+        "modified": 1458288135996,
+        "seen": true,
+        "name": "digitalWrite.xdke"
+      },
+      "digitalWrite_1.2.0.xdke_bak": {
+        "previousModTime": 1453041507352,
+        "modified": 1453041507352,
+        "seen": true,
+        "name": "digitalWrite_1.2.0.xdke_bak"
+      },
+      "digitalWrite_1.2.0.xdk_bak": {
+        "previousModTime": 1453041507350,
+        "modified": 1453041507350,
+        "seen": true,
+        "name": "digitalWrite_1.2.0.xdk_bak"
+      },
+      "icon.png": {
+        "previousModTime": 1428739006000,
+        "modified": 1428739006000,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "inductionONOFF.js": {
+        "previousModTime": 1458219497905,
+        "modified": 1458219497905,
+        "seen": true,
+        "name": "inductionONOFF.js"
+      },
+      "lcd.js": {
+        "previousModTime": 1458216320846,
+        "modified": 1458216320846,
+        "seen": true,
+        "name": "lcd.js"
+      },
+      "main.js": {
+        "previousModTime": 1458338254480,
+        "modified": 1458338254480,
+        "seen": true,
+        "name": "main.js"
+      },
+      "main_old.js": {
+        "previousModTime": 1428838266000,
+        "modified": 1428838266000,
+        "seen": true,
+        "name": "main_old.js"
+      },
+      "package.json": {
+        "previousModTime": 1458324929219,
+        "modified": 1458324929219,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1428739006000,
+        "modified": 1428739006000,
+        "seen": true,
+        "name": "README.md"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1453041507406,
+        "modified": 1453041507406,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {
+      "digitalWrite_1.2.0.xdk_bak": {
+        "previousModTime": 1458339048552
+      },
+      "icon.png": {
+        "previousModTime": 1458339048552
+      },
+      "inductionONOFF.js": {
+        "previousModTime": 1458339048552
+      },
+      "lcd.js": {
+        "previousModTime": 1458339048552
+      },
+      "main.js": {
+        "previousModTime": 1458339048552
+      },
+      "main_old.js": {
+        "previousModTime": 1458339048552
+      },
+      "package.json": {
+        "previousModTime": 1458339048552
+      },
+      "README.md": {
+        "previousModTime": 1458339048552
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1458339048552
+      }
+    }
+  }
+}

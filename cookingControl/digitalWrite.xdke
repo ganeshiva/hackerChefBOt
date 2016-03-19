@@ -1,0 +1,114 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {},
+    "initialAutoPluginCount": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "digitalWrite.xdk": {
+        "previousModTime": 1453041507438,
+        "modified": 1453041507438,
+        "seen": true,
+        "name": "digitalWrite.xdk"
+      },
+      "digitalWrite.xdke": {
+        "previousModTime": 1458218938975,
+        "modified": 1458218938975,
+        "seen": true,
+        "name": "digitalWrite.xdke"
+      },
+      "digitalWrite_1.2.0.xdke_bak": {
+        "previousModTime": 1453041507352,
+        "modified": 1453041507352,
+        "seen": true,
+        "name": "digitalWrite_1.2.0.xdke_bak"
+      },
+      "digitalWrite_1.2.0.xdk_bak": {
+        "previousModTime": 1453041507350,
+        "modified": 1453041507350,
+        "seen": true,
+        "name": "digitalWrite_1.2.0.xdk_bak"
+      },
+      "icon.png": {
+        "previousModTime": 1428739006000,
+        "modified": 1428739006000,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "inductionONOFF": {
+        "previousModTime": 1458218910134,
+        "modified": 1458218910134,
+        "seen": true,
+        "name": "inductionONOFF"
+      },
+      "main.js": {
+        "previousModTime": 1458288084247,
+        "modified": 1458288084247,
+        "seen": true,
+        "name": "main.js"
+      },
+      "main_old.js": {
+        "previousModTime": 1428838266000,
+        "modified": 1428838266000,
+        "seen": true,
+        "name": "main_old.js"
+      },
+      "package.json": {
+        "previousModTime": 1428812204000,
+        "modified": 1428812204000,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1428739006000,
+        "modified": 1428739006000,
+        "seen": true,
+        "name": "README.md"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1453041507406,
+        "modified": 1453041507406,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "inductionONOFF.js": {
+        "previousModTime": 1458219497905,
+        "modified": 1458219497905,
+        "seen": true,
+        "name": "inductionONOFF.js"
+      }
+    },
+    "boardFileStatus": {
+      "digitalWrite_1.2.0.xdk_bak": {
+        "previousModTime": 1458288135876
+      },
+      "icon.png": {
+        "previousModTime": 1458288135876
+      },
+      "inductionONOFF": {
+        "previousModTime": 1458288135876
+      },
+      "main.js": {
+        "previousModTime": 1458288135876
+      },
+      "main_old.js": {
+        "previousModTime": 1458288135876
+      },
+      "package.json": {
+        "previousModTime": 1458288135876
+      },
+      "README.md": {
+        "previousModTime": 1458288135876
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1458288135876
+      },
+      "inductionONOFF.js": {
+        "previousModTime": 1458288135876
+      }
+    }
+  }
+}
